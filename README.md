@@ -17,4 +17,7 @@ RLPD, CAL-QL, FQL
 - By using offline RL with data of A-B and B-C, we can make A-C.
 <img width="1098" height="419" alt="Image" src="https://github.com/user-attachments/assets/59a7710a-4428-4ab4-b3cb-87c2c69a9cbc" />
 
+### 
+Offline RL's output is stiffness `k`. 
+But now, `k` is defined as `[-1,0,1]`. If we change `k` to contionous, we can stitching `k` over `t`. 
       
